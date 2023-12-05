@@ -1,0 +1,32 @@
+---
+title: "Project B"
+date: last-modified
+---
+
+# Project B Overview
+
+In project B, you will create two research questions that can be addressed with data you can conveniently obtain that can be used to address each of your questions, with models that you learned in the 431-432 sequence. 
+
+You will fit one regression model for each research question. 
+
+- Each of your models must include 2-8 predictors.
+- Each model must include at least one predictor that is not included in the other model. 
+- Each model will need to describe observations from the same pool of "subjects", so that a single tibble services the whole Project.
+
+The model for your first outcome must be either:
+
+- A model for a multi-categorical outcome
+- A model for a count outcome, or
+- A Cox model for a time-to-event outcome with censoring
+
+The model for your second outcome must use a different approach than you used for Outcome 1. For this model, you can use any of the three options above, or you may use:
+
+- A linear or binary logistic model fit using a Bayesian engine, or
+- A weighted linear regression model.
+
+# Need Help?
+
+Questions about Project B may be directed to the TAs and to Professor Love at any time **after** your submission of the Project A portfolio in March. If you're asking a question [on Campuswire](https://campuswire.com/), please use the `Project B` label, and we encourage you to ask general questions in public rather than privately, so as to get help from other students, and provide help to them.
+
+
+

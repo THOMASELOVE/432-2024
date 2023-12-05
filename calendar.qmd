@@ -1,0 +1,67 @@
+---
+title: "Calendar for 432: Spring 2024"
+date-modified: last-modified
+---
+
+## January 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+[Class 01](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class01) | TUE <br /> 01-16 | Getting Started, Using Quarto, Validation of Prediction Models
+-- | WED <br /> 01-17 | [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) and join the 432 course at Campuswire by Noon.
+[Class 02](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class02) | THU <br /> 01-18 | Building a Detailed Project with NHANES Data (reviewing 431 ideas)
+-- | TUE <br /> 01-23 | [Lab 1](lab1.qmd) due at 9 AM.
+[Class 03](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class03) | TUE <br /> 01-23 | Developing Inferences using Survey Weights
+-- | WED <br /> 01-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 03 due at Noon.
+[Class 04](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class04) | THU <br /> 01-25 | Linear Regression and ANOVA/ANCOVA models
+-- | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at 9 AM.
+[Class 05](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class05) | TUE <br /> 01-30 | Linear Regression using Non-linear terms and `ols`
+
+**Note**: By the end of January, you should read Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist), which should take about 4 hours.
+
+## February 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+Class 06 | THU <br /> 02-01 | To come.
+Class 07 | TUE <br /> 02-06 | To come.
+Class 08 | THU <br /> 02-08 | To come.
+Class 09 | TUE <br /> 02-13 | To come.
+Class 10 | THU <br /> 02-15 | To come.
+Class 11 | TUE <br /> 02-20 | To come.
+Class 12 | THU <br /> 02-22 | To come.
+Class 13 | TUE <br /> 02-27 | To come.
+Class 14 | THU <br /> 02-29 | To come.
+
+## March 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+Class 15 | TUE <br /> 03-05 | To come.
+Class 16 | THU <br /> 03-07 | To come.
+Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class.
+Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
+Class 17 | TUE <br /> 03-19 | To come.
+Class 18 | THU <br /> 03-21 | To come.
+Class 19 | TUE <br /> 03-26 | To come.
+Class 20 | THU <br /> 03-28 | To come.
+
+## April 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+Class 21 | TUE <br /> 04-02 | To come.
+Class 22 | THU <br /> 04-04 | To come.
+Class 23 | TUE <br /> 04-09 | To come.
+Class 24 | THU <br /> 04-11 | To come.
+Class 25 | TUE <br /> 04-16 | To come.
+Class 26 | THU <br /> 04-18 | To come.
+Class 27 | TUE <br /> 04-23 | To come.
+Class 28 | THU <br /> 04-25 | Last Day of Class.
+
+## TA Office Hours
+
+Attend TA office hours to get one-on-one help or share a computer problem. TA office hours will be posted here when the schedule is set.
+
+
+

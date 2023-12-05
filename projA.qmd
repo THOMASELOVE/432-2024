@@ -1,0 +1,20 @@
+---
+title: "Project A"
+date: last-modified
+---
+
+# Project A Overview
+
+In Project A, you will be analyzing, presenting and discussing a pair of regression models, specifically a linear regression and a logistic regression, describing a data set (available to the public) that you identify.
+
+There are two main deliverables:
+
+- The Project A Plan, due in mid-February
+- The Project A Portfolio and Presentation, due right after Spring Break.
+
+All Project A work is to be submitted [via Canvas](https://canvas.case.edu/).
+
+# Need Help?
+
+Questions about Project A may be directed to the TAs and to Professor Love at any time after the start of the course. If you're asking a question [on Campuswire](https://campuswire.com/), please use the `Project A` label, and we encourage you to ask general questions in public rather than privately, so as to get help from other students, and provide help to them.
+
