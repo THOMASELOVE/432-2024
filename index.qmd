@@ -3,6 +3,8 @@ title: "432 Main Page for Spring 2024"
 date: last-modified
 ---
 
+## THIS WEBSITE WILL "GO LIVE" ON 2024-01-12. UNTIL THEN, ALL DETAILS LISTED HERE ARE SUBJECT TO CHANGE.
+
 ## Welcome! 
 
 PQHS/CRSP/MPHP 432 is the second half ([431 is the first half](https://thomaselove.github.io/431-2023/)) of a two-semester course taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. 
