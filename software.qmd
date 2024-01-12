@@ -9,12 +9,18 @@ You will need access to a computer to do your work for this class, not just an i
 
 # Installing R and RStudio
 
+The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
+
+You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course. 
+
+# Installing R and RStudio
+
 The steps you need to complete are outlined at <https://posit.co/download/rstudio-desktop/#download>:
 
-1. Download and install **the latest version of R** (version **4.3.2 or later**) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/>, which automatically chooses a fast, nearby mirror for you.
+1. Download and install **the latest version of R** (version **4.3.2** "Eye Holes" **or later**) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/>, which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
 
-2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2023.09.1+494 or later**) by visiting <https://posit.co/download/rstudio-desktop/#download>. This will also load everything you need for Quarto.
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **RStudio 2023.12.0+369** "Ocean Storm" **or later**) by visiting <https://posit.co/download/rstudio-desktop/#download>. This will also load everything you need for Quarto.
 
 3. Install some R Packages, [as detailed below](#r-packages-to-install).
 
