@@ -16,6 +16,7 @@ Link | Date | Details
 [Class 04](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class04) | THU <br /> 01-25 | Linear Regression and ANOVA/ANCOVA models
 -- | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at 9 AM.
 [Class 05](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class05) | TUE <br /> 01-30 | Linear Regression using Non-linear terms and `ols`
+-- | WED <br /> 01-31 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 05 due at Noon.
 
 **Note**: By the end of January, you should read Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist), which should take about 4 hours.
 
@@ -23,45 +24,94 @@ Link | Date | Details
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
-Class 06 | THU <br /> 02-01 | To come.
-Class 07 | TUE <br /> 02-06 | To come.
-Class 08 | THU <br /> 02-08 | To come.
-Class 09 | TUE <br /> 02-13 | To come.
-Class 10 | THU <br /> 02-15 | To come.
-Class 11 | TUE <br /> 02-20 | To come.
-Class 12 | THU <br /> 02-22 | To come.
-Class 13 | TUE <br /> 02-27 | To come.
-Class 14 | THU <br /> 02-29 | To come.
+Class 06 | THU <br /> 02-01 | Building Linear Models Effectively, Troubleshooting
+-- | MON <br /> 02-05 | [Lab 3](lab3.qmd) due at 9 PM.
+Class 07 | TUE <br /> 02-06 | Logistic Regression for Binary Outcomes
+-- | WED <br /> 02-07 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 07 due at Noon.
+Class 08 | THU <br /> 02-08 | Logistic Regression with More Predictors
+-- | MON <br /> 02-12 | [Project A plan](projA.qmd) due at 9 PM.
+Class 09 | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
+-- | WED <br /> 02-14 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 09 due at Noon.
+Class 10 | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
+Class 11 | TUE <br /> 02-20 | Ridge Regression and the Lasso, Variable Selection
+Class 12 | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) made available by 5 PM.
+-- | TUE <br /> 02-27 | [Quiz 1](quiz1.qmd) due at 9 AM.
+Class 13 | TUE <br /> 02-27 | Thinking About Power: Retrospective Design, Robust Linear Models.
+Class 14 | THU <br /> 02-29 | Time-to-event (survival) data and Kaplan-Meier Curves
+
+
 
 ## March 2024
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
-Class 15 | TUE <br /> 03-05 | To come.
-Class 16 | THU <br /> 03-07 | To come.
+-- | MON <br /> 03-04 | [Lab 5](lab5.qmd) due at 9 PM.
+Class 15 | TUE <br /> 03-05 | Regression on Count Outcomes, 1
+-- | WED <br /> 03-06 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 15 due at Noon.
+Class 16 | THU <br /> 03-07 | Regression on Count Outcomes, 2
 Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class.
 Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
-Class 17 | TUE <br /> 03-19 | To come.
-Class 18 | THU <br /> 03-21 | To come.
-Class 19 | TUE <br /> 03-26 | To come.
-Class 20 | THU <br /> 03-28 | To come.
+-- | MON <br /> 03-18 | [Project A Portfolio](projA.qmd) due at 9 PM.
+Class 17 | TUE <br /> 03-19 | Regression on Ordinal Multi-Categorical Outcomes, 1
+-- | WED <br /> 03-20 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 17 due at Noon.
+Class 18 | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2
+-- | MON <br /> 03-25 | [Lab 6](lab6.qmd) due at 9 PM.
+Class 19 | TUE <br /> 03-26 | Regression on Nominal Multi-Categorical Outcomes
+-- | WED <br /> 03-27 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 19 due at Noon.
+Class 20 | THU <br /> 03-28 | Introducing Hierarchical Models
+
 
 ## April 2024
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
-Class 21 | TUE <br /> 04-02 | To come.
-Class 22 | THU <br /> 04-04 | To come.
-Class 23 | TUE <br /> 04-09 | To come.
-Class 24 | THU <br /> 04-11 | To come.
-Class 25 | TUE <br /> 04-16 | To come.
-Class 26 | THU <br /> 04-18 | To come.
-Class 27 | TUE <br /> 04-23 | To come.
-Class 28 | THU <br /> 04-25 | Last Day of Class.
+-- | MON <br /> 04-01 | [Lab 7](lab7.qmd) due at 9 PM.
+Class 21 | TUE <br /> 04-02 | Comparing Survival Curves, Fitting Cox Models
+-- | WED <br /> 04-03 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 21 due at Noon.
+Class 22 | THU <br /> 04-04 | Fitting Cox Models with `cpm`
+- | TUE <br /> 04-09 | No class. (Eclipse is April 8)
+-- | WED <br /> 04-10 | [Project B Proposal Form](projB.qmd) due at 9 AM.
+Class 23 | THU <br /> 04-11 | Using `tidymodels` approaches to build linear models
+Class 24 | TUE <br /> 04-16 | Using `tidymodels` approaches to build logistic models.
+-- | WED <br /> 04-12 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 24 due at Noon.
+Class 25 | THU <br /> 04-18 | K-Means Clustering and Principal Components Analysis <br /> [Quiz 2](quiz2.qmd) available by 5 PM.
+-- | TUE <br /> 04-23 | [Quiz 2](quiz2.qmd) due at 9 AM.
+Class 26 | TUE <br /> 04-23 | Generalized Least Squares for Longitudinal Data (an introduction)
+-- | WED <br /> 04-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 26 and (Bonus) [Lab X](labX.qmd) are **each** due at Noon.
+Class 27 | THU <br /> 04-25 | Discussion of Quiz 2, Recent Interesting Things.
+
+## End of Semester
+
+Project B Presentations will be held on...
+
+- Tuesday 2024-04-30 (CWRU Reading Day) between 9 AM and Noon and between 1 and 5 PM
+- Wednesday 2024-05-01 (CWRU Reading Day) between Noon and 5 PM
+- Thursday 2024-05-02 (Final Exams Begin) between 9 AM and Noon and between 1 and 5 PM
+- Friday 2024-05-03 (Final Exams continue) between 9 AM and 2 PM
+
+All course materials are to be submitted no later than **12 Noon on Tuesday 2024-05-07**, including:
+
+- the [Project B Portfolio](projB.qmd) and [Project B Data](projB.qmd#submitting-your-data)
+- the (optional) [Lab Regrade Request Form](https://bit.ly/432-2024-lab-regrades). 
+
+**Course Evaluations** When you are prompted (via email) by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close. Thanks.
+
 
 ## TA Office Hours
 
-Attend TA office hours to get one-on-one help or share a computer problem. TA office hours will be posted here when the schedule is set.
+Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Thursday 2024-01-18, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
 
+The schedule for TA office hours will be posted here soon. All times Eastern.
 
+Date | Time(s)
+:-------: | :------------------
+Sundays | --
+Mondays | --
+Tuesdays | --
+Wednesdays | --
+Thursdays | --
+Fridays | --
+Saturdays | --
+
+Zoom information to join these sessions will be found on our Shared Google Drive.
 
