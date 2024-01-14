@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-12-05">
+<meta name="dcterms.date" content="2024-01-14">
 
-<title>432-2024 - Project A</title>
+<title>432-2024 - Lab 3</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -61,6 +95,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -228,8 +264,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-a-overview" id="toc-project-a-overview" class="nav-link active" data-scroll-target="#project-a-overview">Project A Overview</a></li>
-  <li><a href="#need-help" id="toc-need-help" class="nav-link" data-scroll-target="#need-help">Need Help?</a></li>
+  <li><a href="#general-instructions" id="toc-general-instructions" class="nav-link active" data-scroll-target="#general-instructions">General Instructions</a>
+  <ul class="collapse">
+  <li><a href="#the-data" id="toc-the-data" class="nav-link" data-scroll-target="#the-data">The Data</a></li>
+  <li><a href="#preliminary-data-work-for-lab-3" id="toc-preliminary-data-work-for-lab-3" class="nav-link" data-scroll-target="#preliminary-data-work-for-lab-3">Preliminary Data Work for Lab 3</a></li>
+  </ul></li>
+  <li><a href="#question-1.-10-points" id="toc-question-1.-10-points" class="nav-link" data-scroll-target="#question-1.-10-points">Question 1. (10 points)</a></li>
+  <li><a href="#question-2.-10-points" id="toc-question-2.-10-points" class="nav-link" data-scroll-target="#question-2.-10-points">Question 2. (10 points)</a></li>
+  <li><a href="#question-3.-10-points" id="toc-question-3.-10-points" class="nav-link" data-scroll-target="#question-3.-10-points">Question 3. (10 points)</a></li>
+  <li><a href="#question-4.-10-points" id="toc-question-4.-10-points" class="nav-link" data-scroll-target="#question-4.-10-points">Question 4. (10 points)</a></li>
+  <li><a href="#question-5.-10-points" id="toc-question-5.-10-points" class="nav-link" data-scroll-target="#question-5.-10-points">Question 5. (10 points)</a></li>
+  <li><a href="#our-best-advice" id="toc-our-best-advice" class="nav-link" data-scroll-target="#our-best-advice">Our Best Advice</a></li>
+  <li><a href="#session-information" id="toc-session-information" class="nav-link" data-scroll-target="#session-information">Session Information</a></li>
   </ul>
 </nav>
     </div>
@@ -238,7 +284,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project A</h1>
+<h1 class="title">Lab 3</h1>
 </div>
 
 
@@ -249,7 +295,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2023-12-05</p>
+      <p class="date">2024-01-14</p>
     </div>
   </div>
   
@@ -259,19 +305,177 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="project-a-overview" class="level1">
-<h1>Project A Overview</h1>
-<p>In Project A, you will be analyzing, presenting and discussing a pair of regression models, specifically a linear regression and a logistic regression, describing a data set (available to the public) that you identify.</p>
-<p>There are two main deliverables:</p>
+<section id="general-instructions" class="level1">
+<h1>General Instructions</h1>
 <ul>
-<li>The Project A Plan, due in mid-February</li>
-<li>The Project A Portfolio and Presentation, due right after Spring Break.</li>
+<li>Submit your work via <a href="https://canvas.case.edu/">Canvas</a>.</li>
+<li>The deadline for this Lab is specified on the <a href="./calendar.html">Calendar</a>.
+<ul>
+<li>Work submitted more than 59 minutes late, but within 12 hours of the deadline will lose 5 of the available 50 points.</li>
+<li>Work submitted 12 to 24 hours after the deadline will lose 10 of the available 50 points.</li>
+<li>Work submitted more than 24 hours after the deadline will not be graded.</li>
+</ul></li>
 </ul>
-<p>All Project A work is to be submitted <a href="https://canvas.case.edu/">via Canvas</a>.</p>
+<p>Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we’ve provided. While we have not provided a specific template for this Lab, we encourage you to adapt the one provided for <a href="./lab2.html#template">Lab 2</a>.</p>
+<section id="the-data" class="level2">
+<h2 class="anchored" data-anchor-id="the-data">The Data</h2>
+<p>This Lab uses the <code>hbp3456</code> data developed in <a href="./lab2.html">Lab 2</a>. See the <a href="./lab2.html">Lab 2 instructions</a> for details on the data set. Back in Lab 2, we loaded the data with this code.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(janitor)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span>opts_chunk<span class="sc">$</span><span class="fu">set</span>(<span class="at">comment =</span> <span class="cn">NA</span>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>hbp3456 <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"https://raw.githubusercontent.com/THOMASELOVE/432-data/master/data/hbp3456.csv"</span>, </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">show_col_types =</span> <span class="cn">FALSE</span>) <span class="sc">|&gt;</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">clean_names</span>() <span class="sc">|&gt;</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">record =</span> <span class="fu">as.character</span>(record))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Here, we will walk through the process of fitting and evaluating linear regression fits to predict a subject’s estimated (neighborhood) median income (the <code>income</code> variable) on the basis of the following five predictors:</p>
+<ul>
+<li>the subject’s neighborhood high school graduation rate, collected in the <code>hsgrad</code> variable</li>
+<li>the subject’s race category, from the <code>race</code> variable</li>
+<li>the subject’s Hispanic/Latinx ethnicity category, as shown in <code>eth_hisp</code>,</li>
+<li>the subject’s age (in the <code>age</code> variable), and</li>
+<li>the subject’s current tobacco status, available in the <code>tobacco</code> variable.</li>
+</ul>
 </section>
-<section id="need-help" class="level1">
-<h1>Need Help?</h1>
-<p>Questions about Project A may be directed to the TAs and to Professor Love at any time after the start of the course. If you’re asking a question <a href="https://campuswire.com/">on Campuswire</a>, please use the <code>Project A</code> label, and we encourage you to ask general questions in public rather than privately, so as to get help from other students, and provide help to them.</p>
+<section id="preliminary-data-work-for-lab-3" class="level2">
+<h2 class="anchored" data-anchor-id="preliminary-data-work-for-lab-3">Preliminary Data Work for Lab 3</h2>
+<p>Start your work by completing the following tasks to create a tibble that we’ll call <code>hbp_b</code> in the answer sketch:</p>
+<ol type="1">
+<li>Exclude the 25 subjects in <code>hbp3456</code> who have missing values of either <code>hsgrad</code> or <code>income</code>.</li>
+<li>Restrict your data to the variables we’ll use in our models (the five predictors listed above, the estimated neighborhood income, and the subject identifying code (the <code>record</code>)).</li>
+<li>Ensure that all character variables (other than <code>record</code>) in your tibble are recognized as factors.</li>
+<li>Create a new variable called <code>sqrtinc</code> which will serve as your response (outcome) for your regression modeling, within your tibble.</li>
+<li>Use <code>set.seed(432)</code> and <code>slice_sample()</code> to select a random sample of 1000 subjects from the tibble.</li>
+</ol>
+<p>Your resulting <code>hbp_b</code> tibble should look like this:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>hbp_b</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 1,000 × 8
+   record income hsgrad race     eth_hisp   age tobacco sqrtinc
+   &lt;chr&gt;   &lt;int&gt;  &lt;dbl&gt; &lt;fct&gt;    &lt;fct&gt;    &lt;int&gt; &lt;fct&gt;     &lt;dbl&gt;
+ 1 903574  34800   94.9 White    No          48 Current    187.
+ 2 926837  24700   74.2 AA_Black No          55 Current    157.
+ 3 929198  14700   40   AA_Black No          35 Never      121.
+ 4 932367  24700   74.2 AA_Black No          41 Never      157.
+ 5 925592  65600   92.2 &lt;NA&gt;     &lt;NA&gt;        61 Never      256.
+ 6 932404  18500   67.8 AA_Black No          67 Never      136.
+ 7 933953  21500   84.4 White    No          72 Never      147.
+ 8 911527  23000   83.6 White    No          62 Never      152.
+ 9 918228  13400   70.3 AA_Black No          52 Current    116.
+10 930262  48300   90   &lt;NA&gt;     &lt;NA&gt;        73 Never      220.
+# ℹ 990 more rows</code></pre>
+</div>
+</div>
+<p><strong>Note</strong> If your tibble looks different, it’s not immediately clear to me why. In the answer sketch, I do the following things, in this order:</p>
+<ol type="1">
+<li>read in the data (note that whether you then clean_names() or not has no real effect in this particular case)</li>
+<li>filter to complete cases on hsgrad and income</li>
+<li>select the seven variables we’ll use</li>
+<li>convert all character variables to factors</li>
+<li>ensure record remains a character variable</li>
+<li>add the <code>sqrtinc</code> variable to the tibble</li>
+<li>set a seed of 432</li>
+<li>create the random sample</li>
+</ol>
+</section>
+</section>
+<section id="question-1.-10-points" class="level1">
+<h1>Question 1. (10 points)</h1>
+<p>Display the code you used to ingest the data and complete the preliminary data work described above. Be sure to include text annotations to clarify exactly what your code is doing. Then produce a table to tell us how many missing values you have in each of the important variables in your <code>hbp_b</code> tibble. The important variables are your outcome (square root of estimated neighborhood income) and the five predictors.</p>
+</section>
+<section id="question-2.-10-points" class="level1">
+<h1>Question 2. (10 points)</h1>
+<p>Using the entire sample in <code>hbp_b</code>, obtain and display an appropriate Spearman <span class="math inline">\(\rho^2\)</span> plot and use it to identify a good choice of a single non-linear term that adds exactly two degrees of freedom to the main effects model using all five predictors for <code>sqrtinc</code>. Specify your choice of non-linear term, and your motivation for that choice, based on the plot.</p>
+</section>
+<section id="question-3.-10-points" class="level1">
+<h1>Question 3. (10 points)</h1>
+<p>Fit the main effects model for <code>sqrtinc</code> using <code>ols</code> in the <code>hbp_b</code> sample, and call that model <code>m1</code>. Plot the effect summary (using <code>plot(summary(m1))</code>) for model <code>m1</code> and carefully explain the meaning of the <code>hsgrad</code> coefficient shown in that plot in a complete English sentence.</p>
+<ul>
+<li>Hint 1: you are permitted to also fit the model using <code>lm</code>, if that is useful to you.</li>
+<li>Hint 2: If you use <code>anova()</code> on model <code>m1</code> you should have 8 total degrees of freedom in your model.</li>
+</ul>
+</section>
+<section id="question-4.-10-points" class="level1">
+<h1>Question 4. (10 points)</h1>
+<p>Fit a new model using <code>ols</code>, for <code>sqrtinc</code> using all five predictors, incuding the non-linear term you identified in Question 2 in the <code>hbp_b</code> sample, and call that model <code>m2</code>. Plot the effect summary (using <code>plot(summary(m2))</code>) for model <code>m2</code>, and explain the meaning of the <code>tobacco</code> coefficient shown in the plot in a complete English sentence.</p>
+<ul>
+<li>Hint 1: you are permitted to also fit the model using <code>lm</code>, if that is useful to you.</li>
+<li>Hint 2: If you use <code>anova()</code> on model <code>m2</code> you should have 2 non-linear degrees of freedom, and 10 total degrees of freedom in your model.</li>
+</ul>
+</section>
+<section id="question-5.-10-points" class="level1">
+<h1>Question 5. (10 points)</h1>
+<p>You’ve now fit models <code>m1</code> and <code>m2</code>. For each model, obtain the following summary statistics: the uncorrected raw <span class="math inline">\(R^2\)</span> value, the AIC and BIC. Then validate each model’s <span class="math inline">\(R^2\)</span> and MSE values using <code>set.seed(2023)</code> and 40 bootstrap replications.</p>
+<p>Now, report the five results you obtained for each model in an attractive, well-formatted table. Then write a sentence or two explaining what your findings mean about the performance of the two models.</p>
+</section>
+<section id="our-best-advice" class="level1">
+<h1>Our Best Advice</h1>
+<p>Review your HTML output file carefully before submission for copy-editing issues (spelling, grammar and syntax.) Even with spell-check in RStudio (just hit F7), it’s hard to find errors with these issues in your Quarto file so long as it is running. You really need to look closely at the resulting HTML output.</p>
+</section>
+<section id="session-information" class="level1">
+<h1>Session Information</h1>
+<p>Please display your session information at the end of your submission, as shown below.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>xfun<span class="sc">::</span><span class="fu">session_info</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>R version 4.3.2 (2023-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 11 x64 (build 22621)
+
+Locale:
+  LC_COLLATE=English_United States.utf8 
+  LC_CTYPE=English_United States.utf8   
+  LC_MONETARY=English_United States.utf8
+  LC_NUMERIC=C                          
+  LC_TIME=English_United States.utf8    
+
+Package version:
+  askpass_1.2.0       backports_1.4.1     base64enc_0.1.3    
+  bit_4.0.5           bit64_4.0.5         blob_1.2.4         
+  broom_1.0.5         bslib_0.6.1         cachem_1.0.8       
+  callr_3.7.3         cellranger_1.1.0    cli_3.6.2          
+  clipr_0.8.0         colorspace_2.1-0    compiler_4.3.2     
+  conflicted_1.2.0    cpp11_0.4.7         crayon_1.5.2       
+  curl_5.2.0          data.table_1.14.10  DBI_1.2.0          
+  dbplyr_2.4.0        digest_0.6.33       dplyr_1.1.4        
+  dtplyr_1.3.1        ellipsis_0.3.2      evaluate_0.23      
+  fansi_1.0.6         farver_2.1.1        fastmap_1.1.1      
+  fontawesome_0.5.2   forcats_1.0.0       fs_1.6.3           
+  gargle_1.5.2        generics_0.1.3      ggplot2_3.4.4      
+  glue_1.6.2          googledrive_2.1.1   googlesheets4_1.1.1
+  graphics_4.3.2      grDevices_4.3.2     grid_4.3.2         
+  gtable_0.3.4        haven_2.5.4         highr_0.10         
+  hms_1.1.3           htmltools_0.5.7     htmlwidgets_1.6.4  
+  httr_1.4.7          ids_1.0.1           isoband_0.2.7      
+  janitor_2.2.0       jquerylib_0.1.4     jsonlite_1.8.8     
+  knitr_1.45          labeling_0.4.3      lattice_0.22.5     
+  lifecycle_1.0.4     lubridate_1.9.3     magrittr_2.0.3     
+  MASS_7.3.60         Matrix_1.6.4        memoise_2.0.1      
+  methods_4.3.2       mgcv_1.9.0          mime_0.12          
+  modelr_0.1.11       munsell_0.5.0       nlme_3.1.163       
+  openssl_2.1.1       parallel_4.3.2      pillar_1.9.0       
+  pkgconfig_2.0.3     prettyunits_1.2.0   processx_3.8.3     
+  progress_1.2.3      ps_1.7.5            purrr_1.0.2        
+  R6_2.5.1            ragg_1.2.7          rappdirs_0.3.3     
+  RColorBrewer_1.1.3  readr_2.1.4         readxl_1.4.3       
+  rematch_2.0.0       rematch2_2.1.2      reprex_2.0.2       
+  rlang_1.1.2         rmarkdown_2.25      rstudioapi_0.15.0  
+  rvest_1.0.3         sass_0.4.8          scales_1.3.0       
+  selectr_0.4.2       snakecase_0.11.1    splines_4.3.2      
+  stats_4.3.2         stringi_1.8.3       stringr_1.5.1      
+  sys_3.4.2           systemfonts_1.0.5   textshaping_0.3.7  
+  tibble_3.2.1        tidyr_1.3.0         tidyselect_1.2.0   
+  tidyverse_2.0.0     timechange_0.2.0    tinytex_0.49       
+  tools_4.3.2         tzdb_0.4.0          utf8_1.2.4         
+  utils_4.3.2         uuid_1.1.1          vctrs_0.6.5        
+  viridisLite_0.4.2   vroom_1.6.5         withr_2.5.2        
+  xfun_0.41           xml2_1.3.6          yaml_2.3.8         </code></pre>
+</div>
+</div>
 
 
 </section>

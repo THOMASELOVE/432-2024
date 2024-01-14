@@ -10,11 +10,11 @@ Link | Date | Details
 [Class 01](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class01) | TUE <br /> 01-16 | Getting Started, Using Quarto, Validation of Prediction Models
 -- | WED <br /> 01-17 | [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) and join the 432 course at Campuswire by Noon.
 [Class 02](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class02) | THU <br /> 01-18 | Building a Detailed Project with NHANES Data (reviewing 431 ideas)
--- | TUE <br /> 01-23 | [Lab 1](lab1.qmd) due at 9 AM.
+[Lab 1](lab1.qmd) | TUE <br /> 01-23 | [Lab 1](lab1.qmd) due at Noon.
 [Class 03](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class03) | TUE <br /> 01-23 | Developing Inferences using Survey Weights
 -- | WED <br /> 01-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 03 due at Noon.
 [Class 04](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class04) | THU <br /> 01-25 | Linear Regression and ANOVA/ANCOVA models
--- | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at 9 AM.
+[Lab 2](lab2.qmd) | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at Noon.
 [Class 05](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class05) | TUE <br /> 01-30 | Linear Regression using Non-linear terms and `ols`
 -- | WED <br /> 01-31 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 05 due at Noon.
 
@@ -24,61 +24,60 @@ Link | Date | Details
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
-Class 06 | THU <br /> 02-01 | Building Linear Models Effectively, Troubleshooting
--- | MON <br /> 02-05 | [Lab 3](lab3.qmd) due at 9 PM.
-Class 07 | TUE <br /> 02-06 | Logistic Regression for Binary Outcomes
+[Class 06](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class06) | THU <br /> 02-01 | Building Linear Models Effectively, Troubleshooting
+[Lab 3](lab3.qmd) | TUE <br /> 02-06 | [Lab 3](lab3.qmd) due at Noon.
+[Class 07](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class07) | TUE <br /> 02-06 | Logistic Regression for Binary Outcomes
 -- | WED <br /> 02-07 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 07 due at Noon.
-Class 08 | THU <br /> 02-08 | Logistic Regression with More Predictors
--- | MON <br /> 02-12 | [Project A plan](projA.qmd) due at 9 PM.
-Class 09 | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
+[Class 08](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class08) | THU <br /> 02-08 | Logistic Regression with More Predictors
+-- | **MON** <br /> 02-12 | [Project A plan](projA.qmd) due at Noon.
+[Class 09](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class09) | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
 -- | WED <br /> 02-14 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 09 due at Noon.
-Class 10 | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
-Class 11 | TUE <br /> 02-20 | Ridge Regression and the Lasso, Variable Selection
-Class 12 | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) made available by 5 PM.
--- | TUE <br /> 02-27 | [Quiz 1](quiz1.qmd) due at 9 AM.
-Class 13 | TUE <br /> 02-27 | Thinking About Power: Retrospective Design, Robust Linear Models.
-Class 14 | THU <br /> 02-29 | Time-to-event (survival) data and Kaplan-Meier Curves
-
-
+[Class 10](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class10) | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
+[Lab 4](lab3.qmd) | TUE <br /> 02-20 | [Lab 4](lab4.qmd) due at Noon.
+[Class 11](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class11) | TUE <br /> 02-20 | Project A discussion, Ridge Regression and the Lasso, Variable Selection
+-- | WED <br /> 02-21 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 11 due at Noon.
+[Class 12](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class12) | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) instructions made available by 5 PM.
+[Quiz 1](quiz1.qmd) | TUE <br /> 02-27 | [Quiz 1](quiz1.qmd) due at Noon.
+[Class 13](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class13) | TUE <br /> 02-27 | Thinking About Power: Retrospective Design, Robust Linear Models.
+[Class 14](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class14) | THU <br /> 02-29 | Quiz 1 discussion, Time-to-event (survival) data and Kaplan-Meier Curves
 
 ## March 2024
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
--- | MON <br /> 03-04 | [Lab 5](lab5.qmd) due at 9 PM.
-Class 15 | TUE <br /> 03-05 | Regression on Count Outcomes, 1
+[Lab 5](lab5.qmd) | TUE <br /> 03-05 | [Lab 5](lab5.qmd) due at Noon.
+[Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15) | TUE <br /> 03-05 | Regression on Count Outcomes, 1
 -- | WED <br /> 03-06 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 15 due at Noon.
-Class 16 | THU <br /> 03-07 | Regression on Count Outcomes, 2
-Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class.
+[Class 16](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class16) | THU <br /> 03-07 | Regression on Count Outcomes, 2
+Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class. <br /> Now is a great time to work on [Lab 8](lab8.qmd) in addition to [Project A](projA.qmd)
 Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
--- | MON <br /> 03-18 | [Project A Portfolio](projA.qmd) due at 9 PM.
-Class 17 | TUE <br /> 03-19 | Regression on Ordinal Multi-Categorical Outcomes, 1
+[Project A](projA.qmd) | **MON** <br /> 03-18 | [Project A Portfolio](projA.qmd) due at Noon.
+[Class 17](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class17) | TUE <br /> 03-19 | Regression on Ordinal Multi-Categorical Outcomes, 1
 -- | WED <br /> 03-20 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 17 due at Noon.
-Class 18 | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2
--- | MON <br /> 03-25 | [Lab 6](lab6.qmd) due at 9 PM.
-Class 19 | TUE <br /> 03-26 | Regression on Nominal Multi-Categorical Outcomes
+[Class 18](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class18) | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2
+[Lab 6](lab6.qmd) | TUE <br /> 03-26 | [Lab 6](lab6.qmd) due at Noon.
+[Class 19](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class19) | TUE <br /> 03-26 | Regression on Nominal Multi-Categorical Outcomes
 -- | WED <br /> 03-27 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 19 due at Noon.
-Class 20 | THU <br /> 03-28 | Introducing Hierarchical Models
-
+[Class 20](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class20) | THU <br /> 03-28 | Introducing Hierarchical Models
 
 ## April 2024
 
 Link | Date | Details
 :----: | :----: | :---------------------------------
--- | MON <br /> 04-01 | [Lab 7](lab7.qmd) due at 9 PM.
-Class 21 | TUE <br /> 04-02 | Comparing Survival Curves, Fitting Cox Models
+[Lab 7](lab7.qmd) | TUE <br /> 04-02 | [Lab 7](lab7.qmd) due at Noon.
+[Class 21](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class21) | TUE <br /> 04-02 | Comparing Survival Curves, Fitting Cox Models
 -- | WED <br /> 04-03 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 21 due at Noon.
-Class 22 | THU <br /> 04-04 | Fitting Cox Models with `cpm`
+[Class 22](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class22) | THU <br /> 04-04 | Fitting Cox Models with `cpm`
 - | TUE <br /> 04-09 | No class. (Eclipse is April 8)
--- | WED <br /> 04-10 | [Project B Proposal Form](projB.qmd) due at 9 AM.
-Class 23 | THU <br /> 04-11 | Using `tidymodels` approaches to build linear models
-Class 24 | TUE <br /> 04-16 | Using `tidymodels` approaches to build logistic models.
--- | WED <br /> 04-12 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 24 due at Noon.
-Class 25 | THU <br /> 04-18 | K-Means Clustering and Principal Components Analysis <br /> [Quiz 2](quiz2.qmd) available by 5 PM.
--- | TUE <br /> 04-23 | [Quiz 2](quiz2.qmd) due at 9 AM.
-Class 26 | TUE <br /> 04-23 | Generalized Least Squares for Longitudinal Data (an introduction)
--- | WED <br /> 04-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 26 and (Bonus) [Lab X](labX.qmd) are **each** due at Noon.
-Class 27 | THU <br /> 04-25 | Discussion of Quiz 2, Recent Interesting Things.
+[Project B](projB.qmd) | WED <br /> 04-10 | [Project B Proposal Form](projB.qmd) due at Noon.
+[Class 23](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class23) | THU <br /> 04-11 | Using `tidymodels` approaches to build linear models
+[Class 24](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class24) | TUE <br /> 04-16 | Using `tidymodels` approaches to build logistic models.
+-- | WED <br /> 04-17 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 24 due at Noon.
+[Class 25](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class25) | THU <br /> 04-18 | K-Means Clustering and Principal Components Analysis <br /> [Quiz 2](quiz2.qmd) available by 5 PM.
+-- | TUE <br /> 04-23 | [Quiz 2](quiz2.qmd) due at Noon.
+[Class 26](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class26) | TUE <br /> 04-23 | Generalized Least Squares for Longitudinal Data (an introduction)
+[Class 27](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class27) | THU <br /> 04-25 | Discussion of Quiz 2, Recent Interesting Things.
+[Lab 8](lab8.qmd) | **MON** <br /> 04-29 | [Lab 8](lab8.qmd) due at Noon.
 
 ## End of Semester
 

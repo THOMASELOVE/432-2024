@@ -9,9 +9,10 @@ format:
 # General Instructions
 
 - Submit your work via [Canvas](https://canvas.case.edu/). 
-- The deadline for this Lab is specified on the Course [Calendar](calendar.qmd).
+- The deadline for this Lab is specified on the [Course Calendar](calendar.qmd).
   - Work submitted more than 59 minutes late, but within 12 hours of the deadline will lose 5 of the available 50 points.
-  - Work submitted more than 12 hours after the deadline will lose 10 of the available 50 points.
+  - Work submitted 12 to 24 hours after the deadline will lose 10 of the available 50 points.
+  - Work submitted more than 24 hours after the deadline will not be graded.
 
 Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided.
 

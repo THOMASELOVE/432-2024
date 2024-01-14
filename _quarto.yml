@@ -24,6 +24,12 @@ website:
         menu: 
           - lab1.qmd
           - lab2.qmd
+          - lab3.qmd
+          - lab4.qmd
+          - lab5.qmd
+          - lab6.qmd
+          - lab7.qmd
+          - lab8.qmd
       - text: "Projects"
         menu: 
           - projA.qmd
@@ -33,7 +39,7 @@ website:
           - quiz1.qmd
           - quiz2.qmd
       - text: "Sources"
-        href: tocome.qmd
+        href: https://github.com/THOMASELOVE/432-sources
     right:
       - text: "Key Links"
         menu: 
@@ -44,7 +50,7 @@ website:
         - text: "Shared Google Drive"
           href: tocome.qmd
         - text: "Minute Papers (Github)"
-          href: tocome.qmd
+          href: https://github.com/THOMASELOVE/432-minute-2024
         - text: "Class READMEs (Github)"
           href: https://github.com/THOMASELOVE/432-classes-2024
       - text: "Contact Us"
