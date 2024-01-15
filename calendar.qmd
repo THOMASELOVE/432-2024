@@ -54,7 +54,7 @@ Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
 [Project A](projA.qmd) | **MON** <br /> 03-18 | [Project A Portfolio](projA.qmd) due at Noon.
 [Class 17](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class17) | TUE <br /> 03-19 | Regression on Ordinal Multi-Categorical Outcomes, 1
 -- | WED <br /> 03-20 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 17 due at Noon.
-[Class 18](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class18) | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2
+[Class 18](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class18) | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2 <br /> [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will open
 [Lab 6](lab6.qmd) | TUE <br /> 03-26 | [Lab 6](lab6.qmd) due at Noon.
 [Class 19](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class19) | TUE <br /> 03-26 | Regression on Nominal Multi-Categorical Outcomes
 -- | WED <br /> 03-27 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 19 due at Noon.
@@ -69,7 +69,7 @@ Link | Date | Details
 -- | WED <br /> 04-03 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 21 due at Noon.
 [Class 22](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class22) | THU <br /> 04-04 | Fitting Cox Models with `cpm`
 - | TUE <br /> 04-09 | No class. (Eclipse is April 8)
-[Project B](projB.qmd) | WED <br /> 04-10 | [Project B Proposal Form](projB.qmd) due at Noon.
+[Project B](projB.qmd) | WED <br /> 04-10 | [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) due at Noon.
 [Class 23](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class23) | THU <br /> 04-11 | Using `tidymodels` approaches to build linear models
 [Class 24](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class24) | TUE <br /> 04-16 | Using `tidymodels` approaches to build logistic models.
 -- | WED <br /> 04-17 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 24 due at Noon.
