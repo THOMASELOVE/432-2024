@@ -125,3 +125,10 @@ Please display your session information at the end of your submission, as shown 
 xfun::session_info()
 ```
 
+## After the Lab
+
+We will post an answer sketch 24 hours after the Lab is due.
+
+We will post grades to our Grading Roster on our Shared Google Drive one week after the Lab is due.
+
+See the [Lab Appeal Policy in our Syllabus](https://thomaselove.github.io/432-syllabus-2024/08-grading.html#lab-appeal-policy---request-a-review-via-google-form) if you are interested in having your Lab grade reviewed, and use [the Lab Regrade Request form specified there](https://bit.ly/432-2024-lab-regrades) to complete the task. Thank you.
