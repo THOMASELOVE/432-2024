@@ -39,7 +39,7 @@ An R "package" is a collection of functions, data, and documentation that extend
 
 pkgs <- c(  "afex", "aplpack", "aplore3", "arm", "babynames", "bestglm", 
             "boot", "broom", "car", "caret", "cowplot", "DataExplorer", 
-            "DescTools", "devtools", "Epi", "equatiomatic", "exact2x2", 
+            "DescTools", "devtools", "distributions3", "Epi", "exact2x2", 
             "ez", "faraway", "fivethirtyeight", "foreign", "gapminder", 
             "gee", "geepack", "GGally", "ggdist", "ggforce", "ggrepel", 
             "ggridges", "ggstance", "ggthemes", "glue", "gmodels", 
@@ -81,6 +81,7 @@ install.packages(pkgs)
 
 remotes::install_github("mdsr-book/mdsr")
 install.packages("countreg", repos="http://R-Forge.R-project.org")
+install.packages("topmodels", repos="http://R-Forge.R-project.org")
 ```
 
 Execute those lines of code, as well. If you are asked to respond to questions, follow the recommendations provided in the request.
