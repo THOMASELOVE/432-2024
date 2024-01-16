@@ -14,7 +14,17 @@ If you’ve spent 15 minutes working on something and are stuck, don’t keep wo
 
 2. Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
 
-The schedule for TA office hours will be posted here and on the [Calendar](calendar.qmd) when it becomes available.
+The complete schedule for TA office hours will be posted here soon. All times Eastern.
+
+Date | Time(s)
+:-------: | :------------------
+Sundays | --
+Mondays | 11:40 AM to 12:50 PM, 5:00 PM to 6:30 PM
+Tuesdays | --
+Wednesdays | 6:00 PM to 7:30 PM
+Thursdays | --
+Fridays | 11:40 AM to 12:50 PM and 7:00 PM to 8:30 PM
+Saturdays | 10:30 AM to Noon
 
 Zoom information to join these sessions will be posted to our **Shared Google Drive** when available.
 
