@@ -7,7 +7,7 @@ date: last-modified
 
 PQHS/CRSP/MPHP 432 is the second half ([431 is the first half](https://thomaselove.github.io/431-2023/)) of a two-semester course taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. 
 
-If you have any questions before class begins, contact Dr. Love at `Thomas dot Love at case dot edu`.
+If you have any questions before class begins, contact Dr. Love at `Thomas dot Love at case dot edu`. Once the class starts, visit the [Contact Us](contact.qmd) page to learn more about how to get help from us.
 
 ## Getting Started
 
