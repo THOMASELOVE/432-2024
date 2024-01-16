@@ -263,7 +263,7 @@ For Project B, don't worry about penalizing yourself for "peeking" at the data b
 
 ## Transformations
 
-In Project B, for outcome transformations, follow our advice [from Project A](projectA.qmd#transformations).
+In Project B, for outcome transformations, follow our advice [from Project A](projA.qmd#transformations).
 
 ## Advice on Predictors
 
