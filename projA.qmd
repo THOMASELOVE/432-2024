@@ -14,6 +14,10 @@ There are two main deliverables:
 
 All Project A work is submitted [via Canvas](https://canvas.case.edu/).
 
+## Use of AI
+
+If you decide to use some sort of AI to help you with any part of the Project, we ask that you place a note to that effect, describing what you used and how you used it, as a separate section called "Use of AI". This should appear just *before* your section containing the Session Information. Thank you.
+
 ## Templates
 
 On our [432-data page](https://github.com/THOMASELOVE/432-data), you will find (in the templates subfolder) a pair of Quarto templates: [one for the Project A Plan](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAplan_template.qmd), and [another for the Project A Portfolio](https://raw.githubusercontent.com/THOMASELOVE/432-data/master/templates/projectAportfolio_template.qmd). Please use these templates in preparing your work. They will make completing and grading Project A much easier.
