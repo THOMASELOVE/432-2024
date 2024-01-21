@@ -208,6 +208,9 @@ hbp3456 <- read_csv("https://raw.githubusercontent.com/THOMASELOVE/432-data/mast
 hbp3456
 ```
 
+# Use of AI
+
+If you decide to use some sort of AI to help you with this Lab, we ask that you place a note to that effect, describing what you used and how you used it, as a separate section called "Use of AI", after your answers to our questions, and just *before* your presentation of the Session Information. Thank you.
 
 # Include the Session Information
 

@@ -131,6 +131,10 @@ b. Evaluate the quality of the model you fit in terms of adherence to regression
 
 c. Use the `glance` function in the `broom` package to help you create an attractive table which compares `model1` to a simple linear model (called `model2`) for the same outcome (`obese_pct`) which uses only the `food_env` variable as a predictor. Your comparisons should include assessments of raw and adjusted R-squared, AIC, BIC and residual standard error within the complete sample of all 88 Ohio counties. Then reflect on your findings in a few complete sentences: based on these metrics, which model looks like it fits the Ohio 2022 data more effectively, and why?
 
+# Use of AI
+
+If you decide to use some sort of AI to help you with this Lab, we ask that you place a note to that effect, describing what you used and how you used it, as a separate section called "Use of AI", after your answers to our questions, and just *before* your presentation of the Session Information. Thank you.
+
 ## Be sure to include Session Information
 
 Please display your session information at the end of your submission, as shown below.
