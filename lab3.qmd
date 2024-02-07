@@ -102,7 +102,7 @@ Fit the main effects model for `sqrtinc` using `ols` in the `hbp_b` sample, and 
 
 # Question 4. (10 points)
 
-Fit a new model using `ols`, for `sqrtinc` using all five predictors, incuding the non-linear term you identified in Question 2 in the `hbp_b` sample, and call that model `m2`. Plot the effect summary (using `plot(summary(m2))`) for model `m2`, and explain the meaning of the `tobacco` coefficient shown in the plot in a complete English sentence.
+Fit a new model using `ols`, for `sqrtinc` using all five predictors, including the non-linear term you identified in Question 2 in the `hbp_b` sample, and call that model `m2`. Plot the effect summary (using `plot(summary(m2))`) for model `m2`, and explain the meaning of the `tobacco` coefficient shown in the plot in a complete English sentence.
 
 - Hint 1: you are permitted to also fit the model using `lm`, if that is useful to you.
 - Hint 2: If you use `anova()` on model `m2` you should have 2 non-linear degrees of freedom, and 10 total degrees of freedom in your model.
