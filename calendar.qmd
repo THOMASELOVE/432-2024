@@ -3,22 +3,6 @@ title: "Calendar for 432: Spring 2024"
 date-modified: last-modified
 ---
 
-## January 2024
-
-Link | Date | Details
-:----: | :----: | :---------------------------------
-[Class 01](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class01) | TUE <br /> 01-16 | Getting Started, Using Quarto, Validation of Prediction Models
--- | WED <br /> 01-17 | [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) and join the 432 course at Campuswire by Noon.
-[Class 02](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class02) | THU <br /> 01-18 | Building a Detailed Project with NHANES Data (reviewing 431 ideas)
-[Lab 1](lab1.qmd) | TUE <br /> 01-23 | [Lab 1](lab1.qmd) due at Noon.
-[Class 03](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class03) | TUE <br /> 01-23 | Developing Inferences using Survey Weights
--- | WED <br /> 01-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 03 due at Noon.
-[Class 04](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class04) | THU <br /> 01-25 | Linear Regression and ANOVA/ANCOVA models
-[Lab 2](lab2.qmd) | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at Noon.
-[Class 05](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class05) | TUE <br /> 01-30 | Linear Regression using Non-linear terms and `ols`
--- | WED <br /> 01-31 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 05 due at Noon.
-
-**Note**: By the end of January, you should read Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist), which should take about 4 hours.
 
 ## February 2024
 
@@ -114,3 +98,19 @@ Saturdays | 10:30 AM to Noon
 
 Zoom information to join these sessions will be posted to our **Shared Google Drive** before the first session on Friday 2024-01-19.
 
+## January 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+[Class 01](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class01) | TUE <br /> 01-16 | Getting Started, Using Quarto, Validation of Prediction Models
+-- | WED <br /> 01-17 | [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) and join the 432 course at Campuswire by Noon.
+[Class 02](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class02) | THU <br /> 01-18 | Building a Detailed Project with NHANES Data (reviewing 431 ideas)
+[Lab 1](lab1.qmd) | TUE <br /> 01-23 | [Lab 1](lab1.qmd) due at Noon.
+[Class 03](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class03) | TUE <br /> 01-23 | Developing Inferences using Survey Weights
+-- | WED <br /> 01-24 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 03 due at Noon.
+[Class 04](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class04) | THU <br /> 01-25 | Linear Regression and ANOVA/ANCOVA models
+[Lab 2](lab2.qmd) | TUE <br /> 01-30 | [Lab 2](lab2.qmd) due at Noon.
+[Class 05](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class05) | TUE <br /> 01-30 | Linear Regression using Non-linear terms and `ols`
+-- | WED <br /> 01-31 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 05 due at Noon.
+
+**Note**: By the end of January, you should read Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist), which should take about 4 hours.
