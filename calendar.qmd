@@ -17,7 +17,7 @@ Link | Date | Details
 [Class 09](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class09) | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
 -- | WED <br /> 02-14 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 09 due at Noon.
 [Class 10](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class10) | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
-[Lab 4](lab3.qmd) | TUE <br /> 02-20 | [Lab 4](lab4.qmd) due at Noon.
+[Lab 4](lab4.qmd) | TUE <br /> 02-20 | [Lab 4](lab4.qmd) due at Noon.
 [Class 11](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class11) | TUE <br /> 02-20 | Project A discussion, Ridge Regression and the Lasso, Variable Selection
 -- | WED <br /> 02-21 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 11 due at Noon.
 [Class 12](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class12) | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) instructions made available by 5 PM.
