@@ -2,9 +2,9 @@
 title: "Quiz 1"
 ---
 
-Quiz 1 includes materials from Classes 1-11 of the course.
+Quiz 1 includes materials from Classes 1-11 of the course and from Jeff Leek's *How To Be A Modern Scientist*.
 
-Visit [this link on Github](https://github.com/THOMASELOVE/432-quizzes-2024) for all materials related to Quiz 1 that are currently available.
+Visit [this link on Github](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) for all materials related to Quiz 1 that are currently available.
 
 By the time specified on the [Calendar](calendar.qmd), several elements will appear at that link, specifically:
 
