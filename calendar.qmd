@@ -3,28 +3,6 @@ title: "Calendar for 432: Spring 2024"
 date-modified: last-modified
 ---
 
-
-## February 2024
-
-Link | Date | Details
-:----: | :----: | :---------------------------------
-[Class 06](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class06) | THU <br /> 02-01 | Building Linear Models Effectively, Troubleshooting
-[Lab 3](lab3.qmd) | TUE <br /> 02-06 | [Lab 3](lab3.qmd) due at Noon.
-[Class 07](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class07) | TUE <br /> 02-06 | Logistic Regression for Binary Outcomes
--- | WED <br /> 02-07 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 07 due at Noon.
-[Class 08](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class08) | THU <br /> 02-08 | Logistic Regression with More Predictors
--- | **MON** <br /> 02-12 | [Project A plan](projA.qmd) due at Noon.
-[Class 09](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class09) | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
--- | WED <br /> 02-14 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 09 due at Noon.
-[Class 10](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class10) | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
-[Lab 4](lab4.qmd) | TUE <br /> 02-20 | [Lab 4](lab4.qmd) due at Noon.
-[Class 11](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class11) | TUE <br /> 02-20 | Variable Selection for Linear and Logistic Regression with `bestglm`.
--- | WED <br /> 02-21 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 11 due at Noon.
-[Class 12](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class12) | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) instructions made available by 5 PM.
-[Quiz 1](quiz1.qmd) | TUE <br /> 02-27 | [Quiz 1](quiz1.qmd) due at Noon.
-[Class 13](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class13) | TUE <br /> 02-27 | Thinking About Power: Retrospective Design, Robust Linear Models.
-[Class 14](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class14) | THU <br /> 02-29 | Quiz 1 discussion, Time-to-event (survival) data and Kaplan-Meier Curves
-
 ## March 2024
 
 Link | Date | Details
@@ -67,10 +45,9 @@ Link | Date | Details
 
 Project B Presentations will be held on...
 
-- Tuesday 2024-04-30 (CWRU Reading Day) between 9 AM and Noon and between 1 and 5 PM
-- Wednesday 2024-05-01 (CWRU Reading Day) between Noon and 5 PM
-- Thursday 2024-05-02 (Final Exams Begin) between 9 AM and Noon and between 1 and 5 PM
-- Friday 2024-05-03 (Final Exams continue) between 9 AM and 2 PM
+- Tuesday 2024-04-30 (CWRU Reading Day) between 8 AM and Noon and between 1 and 6 PM, in person or Zoom
+- Wednesday 2024-05-01 (CWRU Reading Day) between Noon and 7 PM, via Zoom
+- Thursday 2024-05-02 (Final Exams Begin) between 1 and 6 PM, via Zoom
 
 All course materials are to be submitted no later than **12 Noon on Tuesday 2024-05-07**, including:
 
@@ -114,3 +91,24 @@ Link | Date | Details
 -- | WED <br /> 01-31 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 05 due at Noon.
 
 **Note**: By the end of January, you should read Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist), which should take about 4 hours.
+
+## February 2024
+
+Link | Date | Details
+:----: | :----: | :---------------------------------
+[Class 06](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class06) | THU <br /> 02-01 | Building Linear Models Effectively, Troubleshooting
+[Lab 3](lab3.qmd) | TUE <br /> 02-06 | [Lab 3](lab3.qmd) due at Noon.
+[Class 07](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class07) | TUE <br /> 02-06 | Logistic Regression for Binary Outcomes
+-- | WED <br /> 02-07 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 07 due at Noon.
+[Class 08](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class08) | THU <br /> 02-08 | Logistic Regression with More Predictors
+-- | **MON** <br /> 02-12 | [Project A plan](projA.qmd) due at Noon.
+[Class 09](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class09) | TUE <br /> 02-13 | Logistic Regression using Non-linear terms and `lrm`
+-- | WED <br /> 02-14 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 09 due at Noon.
+[Class 10](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class10) | THU <br /> 02-15 | Building Logistic Models Effectively, Troubleshooting
+[Lab 4](lab4.qmd) | TUE <br /> 02-20 | [Lab 4](lab4.qmd) due at Noon.
+[Class 11](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class11) | TUE <br /> 02-20 | Variable Selection for Linear and Logistic Regression with `bestglm`.
+-- | WED <br /> 02-21 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 11 due at Noon.
+[Class 12](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class12) | THU <br /> 02-22 | K-fold Cross-Validation, Building Table 1 <br /> [Quiz 1](quiz1.qmd) instructions made available by 5 PM.
+[Quiz 1](quiz1.qmd) | TUE <br /> 02-27 | [Quiz 1](quiz1.qmd) due at Noon.
+[Class 13](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class13) | TUE <br /> 02-27 | Thinking About Power: Retrospective Design, Robust Linear Models.
+[Class 14](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class14) | THU <br /> 02-29 | Quiz 1 discussion, Time-to-event (survival) data and Kaplan-Meier Curves
