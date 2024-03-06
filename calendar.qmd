@@ -8,9 +8,9 @@ date-modified: last-modified
 Link | Date | Details
 :----: | :----: | :---------------------------------
 [Lab 5](lab5.qmd) | TUE <br /> 03-05 | [Lab 5](lab5.qmd) due at Noon.
-[Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15) | TUE <br /> 03-05 | Regression on Count Outcomes, 1
+[Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15) | TUE <br /> 03-05 | Regression on Count Outcomes
 -- | WED <br /> 03-06 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 15 due at Noon.
-[Class 16](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class16) | THU <br /> 03-07 | Regression on Count Outcomes, 2
+[Class 16](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class16) | THU <br /> 03-07 | Miscellaneous Useful Things and Loose Ends
 Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class. <br /> Now is a great time to work on [Lab 8](lab8.qmd) in addition to [Project A](projA.qmd)
 Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
 [Project A](projA.qmd) | **MON** <br /> 03-18 | [Project A Portfolio](projA.qmd) due at Noon.
