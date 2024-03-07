@@ -39,9 +39,9 @@ Dr. Love posted .qmd and .html files for a demonstration project to our **Shared
 
 ## Deadlines
 
-The deadline to receive full credit for the 432 Project A portfolio (including HTML, qmd, Rds and video files) is specified in the [Calendar](calendar.qmd) as Noon on Monday 2024-03-18. I'd like to avoid getting a lot of emails pleading for extensions. So, we have established two additional deadlines:
+The deadline to receive full credit for the 432 Project A portfolio (including HTML, qmd, Rds and video files) is now specified in the [Calendar](calendar.qmd) as Noon on Tuesday 2024-03-19. I'd like to avoid getting a lot of emails pleading for extensions. So, we have established two additional deadlines:
 
-1. If all four elements of your work are not submitted by Monday 2024-03-18 at Noon, you can instead submit them by Wednesday 2024-03-20 at NOON while taking a penalty of 5 points (out of 100).
+1. If all four elements of your work are not submitted by Tuesday 2024-03-19 at Noon, you can instead submit them by Wednesday 2024-03-20 at NOON while taking a penalty of 5 points (out of 100).
 2. If your work is not submitted by Wednesday at noon, you can instead submit it by Friday 2024-03-22 at 11:59 PM while taking a total penalty of 10 points (out of 100).
 
 That's it. We won't accept work after Friday March 22nd at 11:59 PM.

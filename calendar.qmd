@@ -13,7 +13,7 @@ Link | Date | Details
 [Class 16](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class16) | THU <br /> 03-07 | Miscellaneous Useful Things and Loose Ends
 Break | TUE 03-12 | Spring Break (03-11 through 03-15) - No class. <br /> Now is a great time to work on [Lab 8](lab8.qmd) in addition to [Project A](projA.qmd)
 Break | THU 03-14 | Spring Break (03-11 through 03-15) - No class.
-[Project A](projA.qmd) | **MON** <br /> 03-18 | [Project A Portfolio](projA.qmd) due at Noon.
+[Project A](projA.qmd) | **TUE** <br /> 03-19 | [Project A Portfolio](projA.qmd) due at Noon. **Note this change!**
 [Class 17](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class17) | TUE <br /> 03-19 | Regression on Ordinal Multi-Categorical Outcomes, 1
 -- | WED <br /> 03-20 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 17 due at Noon.
 [Class 18](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class18) | THU <br /> 03-21 | Regression on Ordinal Multi-Categorical Outcomes, 2 <br /> [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will open
@@ -59,7 +59,7 @@ All course materials are to be submitted no later than **12 Noon on Tuesday 2024
 
 ## TA Office Hours
 
-Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
+Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-15) and April 8 (Eclipse).
 
 The complete schedule for TA office hours follows. All times Eastern.
 
