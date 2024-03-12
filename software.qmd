@@ -54,8 +54,9 @@ pkgs <- c(  "afex", "aplpack", "aplore3", "arm", "babynames", "bestglm",
             "ResourceSelection", "rmarkdown", "rmdformats", "rms", 
             "robustbase", "ROCR", "rpart", "rpart.plot", "rstanarm", "rstatix",
             "sandwich", "simputation", "spelling", "styler", "summarytools", 
-            "survival", "survminer", "tableone", "tidymodels", "tidyverse", 
-            "usethis", "vcd", "VGAM", "viridis", "visdat", "xfun")
+            "survival", "survminer", "tableone", "tidymodels", "tidytext",
+            "tidyverse", "usethis", "vcd", "VGAM", "viridis", "visdat",
+            "xfun")
                 
 install.packages(pkgs)
 
