@@ -29,7 +29,7 @@ Link | Date | Details
 [Lab 7](lab7.qmd) | TUE <br /> 04-02 | [Lab 7](lab7.qmd) due at Noon.
 [Class 21](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class21) | TUE <br /> 04-02 | Comparing Survival Curves, Fitting Cox Models
 -- | WED <br /> 04-03 | [Minute Paper](https://github.com/THOMASELOVE/432-minute-2024) after Class 21 due at Noon.
-[Class 22](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class22) | THU <br /> 04-04 | Fitting Cox Models with `cpm`
+[Class 22](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class22) | THU <br /> 04-04 | Fitting Cox Models with `cpm` <br /> Statistical Significance and its problems
 - | TUE <br /> 04-09 | No class. (Eclipse is April 8)
 [Project B](projB.qmd) | WED <br /> 04-10 | [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) due at Noon.
 [Class 23](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class23) | THU <br /> 04-11 | Using `tidymodels` approaches to build linear models
