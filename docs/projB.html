@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-03-04">
+<meta name="dcterms.date" content="2024-03-27">
 
 <title>432-2024 - Project B</title>
 <style>
@@ -296,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2024-03-04</p>
+      <p class="date">2024-03-27</p>
     </div>
   </div>
   
@@ -317,14 +317,16 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>The model for your first outcome must be either:</p>
 <ul>
-<li>A model for a multi-categorical outcome</li>
+<li>A model for a multi-categorical outcome (with 3-7 levels)</li>
 <li>A model for a count outcome, or</li>
 <li>A Cox model for a time-to-event outcome with censoring</li>
 </ul>
 <p>The model for your second outcome must use a different approach than you used for Outcome 1. For this model, you can use any of the three options above, or you may use:</p>
 <ul>
-<li>A linear or binary logistic model fit using a Bayesian engine, or</li>
-<li>A weighted linear regression model.</li>
+<li>A linear or binary logistic model fit using a Bayesian engine via the <code>tidymodels</code> package, or</li>
+<li>A linear model fit by selecting candidate predictors using the lasso, or</li>
+<li>A linear regression model that uses survey weights, or</li>
+<li>A robust linear model that uses robust standard errors.</li>
 </ul>
 <section id="deliverables" class="level2">
 <h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
@@ -376,7 +378,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Your tibble will need a subject identifying code, and each model must have a separate outcome, and at least one predictor not used in the other model and each model must have 2-8 predictors, we anticipate that your clean, tidied tibble will include between 6 and 19 variables.</li>
 <li>We suggest that you collapse multiple categories as necessary to ensure that you have at least 25 observations in every category you plan to use for every predictor or outcome studied in Project B.</li>
 </ol>
-<p>Unlike 432 Project A, NHANES data are a completely acceptable choice for Project B, although we do require you to use the demographics file and at least two other NHANES files in developing your data set. See the <a href="https://thomaselove.github.io/431-projectB-2022/data2.html">Fall 2022 431 Project B instructions on Using NHANES data</a> for more information on NHANES. If you use NHANES data or other large (weighted) survey data, you are welcome to do any or all of Project B without incorporating sampling weights.</p>
+<p>Unlike 432 Project A, NHANES data are a completely acceptable choice for Project B, although we do require you to use the demographics file and at least two other NHANES files in developing your data set. See the <a href="https://thomaselove.github.io/431-projectB-2023/data2.html">Fall 2023 431 Project B instructions on Using NHANES data</a> for more information on NHANES. If you use NHANES data or other large (weighted) survey data, you are welcome to do any or all of Project B without incorporating sampling weights.</p>
 <p><strong>Note</strong>: We have had some difficulty identifying data set suggestions (outside of educational repositories like the <a href="https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a>) that are both messy enough to be interesting for this project and which also provide time-to-event outcomes with right censoring that are suitable for the survival analysis work we discuss in 432. If you have suggestions along these lines, we would be eager to hear them.</p>
 <section id="there-are-only-a-few-restrictions-on-your-choice-of-data." class="level3">
 <h3 class="anchored" data-anchor-id="there-are-only-a-few-restrictions-on-your-choice-of-data.">There are only a few restrictions on your choice of data.</h3>
@@ -560,7 +562,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="missing-data">Missing Data</h2>
 <ol type="1">
 <li>Drop all cases without complete outcome data, but otherwise, your goal should be to preserve as much of the data collection effort as possible.</li>
-<li>Use multiple imputation to deal with missing values in presenting a final model for either a linear or logistic regression. Be sure to explicitly state the assumptions you make about the missing data mechanism.</li>
+<li>Use multiple imputation to deal with missing values in presenting a final model for either a linear or logistic regression whenever possible.</li>
+<li>Be sure to explicitly state the assumptions you make about the missing data mechanism.</li>
 <li>You may use single imputation in the process of developing your models, in presenting residual plots for linear models, or in presenting final models for regression approaches for count, multi-categorical or time-to-event with censoring outcomes.</li>
 <li>Do not use a complete-case analysis or sampling strategy except to ensure that all of your cases have complete outcome data.</li>
 </ol>
